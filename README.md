@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning XR development and time management
 - 💞️ I’m looking to collaborate on fun and impactful projects
 - 📫 How to reach me :point_right: [Email](mailto:katia.semyanovskaya@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katia-semyanovskaya/)
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I teach math sometimes. Here's a joke for math enthusiasts:
 
   > _An infinite number of mathematicians walk into a bar. \
