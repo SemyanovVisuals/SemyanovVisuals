@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SemyanovVisuals
-- 👀 I’m interested in mathematics, 3D graphics, XR, computer vision
-- 🌱 I’m currently learning XR development and building my XR portfolio
-- 💞️ I’m looking to collaborate on fun and impactful projects
-- 📫 How to reach me :point_right: [Email](mailto:katia.semyanovskaya@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katia-semyanovskaya/)
+- 👋 Hi, I’m @SemyanovVisuals;
+- 👀 I’m interested in XR, mathematics, 3D graphics, computer vision;
+- 🌱 I’m currently learning XR development and building my XR portfolio;
+- 💞️ I’m looking to collaborate on fun and impactful projects;
+- 📫 How to reach me :point_right: [Email](mailto:katia.semyanovskaya@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katia-semyanovskaya/);
 - ⚡ Fun fact: I teach math sometimes. Here's a joke for math enthusiasts:
 
   > _An infinite number of mathematicians walk into a bar. \
