@@ -1,8 +1,8 @@
-👋 Hi, I’m @SemyanovVisuals;
-👀 I’m interested in XR, mathematics, 3D graphics, computer vision.
-🌱 I’m currently doing my master's and building my portfolio in visual computing;
-📫 How to reach me :point_right: [Email](mailto:katia.semyanovskaya@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katia-semyanovskaya/);
-⚡ Fun fact: I teach math sometimes. Here's a joke for math enthusiasts:
+- Hi, I’m @SemyanovVisuals;
+- I’m interested in XR, mathematics, 3D graphics, computer vision.
+- I’m currently doing my master's and building my portfolio in visual computing;
+- How to reach me :point_right: [Email](mailto:katia.semyanovskaya@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katia-semyanovskaya/);
+- Fun fact: I teach math sometimes. Here's a joke for math enthusiasts:
 
   > _An infinite number of mathematicians walk into a bar. \
 The first orders a beer. The second orders half a beer. The third orders a quarter of a beer. \
